@@ -1,0 +1,9 @@
+data
+
+int add(int x, int y){
+	return x + y;
+}
+
+int sub(intx, int y){
+	return x - y;
+}
